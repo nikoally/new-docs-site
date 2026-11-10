@@ -1,0 +1,11 @@
+{
+  "title": "Training",
+  "pages": [
+    "basics",
+    "engineering-economics",
+    "technical-writing",
+    "electric-motor-systems",
+    "compressed-air"
+  ],
+  "root": true
+}
